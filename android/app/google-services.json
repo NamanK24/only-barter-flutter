@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "14549963327",
+    "project_id": "only-barter-ad195",
+    "storage_bucket": "only-barter-ad195.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14549963327:android:d7222bf8dfd3aa2a0e9e8a",
+        "android_client_info": {
+          "package_name": "com.marvelse.onlybarter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14549963327-8c899tucgo23ksdoltaliv77pmh4f3ub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-vHqrWSB0F3aDJZF5n1tEJ_V4YcotI_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14549963327-8c899tucgo23ksdoltaliv77pmh4f3ub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
